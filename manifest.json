@@ -1,1 +1,10 @@
-
+{
+  "domain": "hyundai_bluelink",
+  "name": "Hyundai BlueLink",
+  "documentation": "https://github.com/Shwerzb/hyundai_bluelink",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@Shwerb"],
+  "config_flow": true,
+  "version": "1.0.0"
+}
