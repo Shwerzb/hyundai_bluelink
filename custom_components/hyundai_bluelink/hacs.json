@@ -1,0 +1,11 @@
+{
+  "name": "Hyundai BlueLink",
+  "content_in_root": false,
+  "domains": ["sensor", "switch"],
+  "country": ["US"],
+  "zip_release": false,
+  "filename": "custom_components/hyundai_bluelink",
+  "homeassistant": "2021.6.0",
+  "iot_class": "Cloud Polling",
+  "version": "1.0.0"
+}
