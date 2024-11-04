@@ -4,7 +4,7 @@
   "documentation": "https://github.com/Shwerzb/hyundai_bluelink",
   "requirements": [],
   "dependencies": [],
-  "codeowners": ["@Shwerb"],
+  "codeowners": ["@your_username"],
   "config_flow": true,
   "version": "1.0.0"
 }
